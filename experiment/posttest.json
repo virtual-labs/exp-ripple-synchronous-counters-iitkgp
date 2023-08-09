@@ -1,39 +1,61 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "A decimal counter has ______ states.",
+        "answers": {
+          "a": "5",
+          "b": "10",
+          "c": "15",
+          "d": "20"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "Synchronous counter is a type of ____________",
+        "answers": {
+          "a": "SSI counters",
+          "b": "LSI counters",
+          "c": "MSI counters",
+          "d": "VLSI counters"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "Three decade counter would have ____________",
+        "answers": {
+          "a": "2 BCD counters",
+          "b": "3 BCD counters",
+          "c": "4 BCD counters",
+          "d": "5 BCD counters"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "BCD counter is also known as ____________",
+        "answers": {
+          "a": "Parallel counter",
+          "b": "Decade counter",
+          "c": "Synchronous counter",
+          "d": "VLSI counter"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "The parallel outputs of a counter circuit represent the _____________",
+        "answers": {
+          "a": "Parallel data word",
+          "b": "Clock frequency",
+          "c": "Counter modulus",
+          "d": "Clock count"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
