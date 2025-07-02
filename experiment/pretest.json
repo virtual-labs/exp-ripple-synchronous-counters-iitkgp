@@ -2,7 +2,7 @@
     "version": 2.0,
     "questions": [
       {
-        "question": "In digital logic, a counter is a device which ____________",
+        "question": "In digital logic, a counter is a device that ____________",
         "answers": {
           "a": "Counts the number of outputs",
           "b": "Stores the number of times a particular event or process has occurred",
@@ -29,7 +29,7 @@
           "a": "0 to 2<sup>n</sup>",
           "b": "0 to 2<sup>n+1</sup>",
           "c": "0 to 2<sup>n-1</sup>",
-          "d": "0 to 2<sup>n+1/2</sup>"
+          "d": "0 to 2<sup>(n+(1/2))</sup>"
         },
         "correctAnswer": "c",
         "difficulty": "beginner"
