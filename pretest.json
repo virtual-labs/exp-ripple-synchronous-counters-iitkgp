@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "In digital logic, a counter is a device that ____________",
+        "answers": {
+          "a": "Counts the number of outputs",
+          "b": "Stores the number of times a particular event or process has occurred",
+          "c": "Stores the number of times a clock pulse rises and falls",
+          "d": "Counts the number of inputs"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "A counter circuit is usually constructed of ____________",
+        "answers": {
+          "a": "A number of latches connected in cascade form",
+          "b": "A number of NAND gates connected in cascade form",
+          "c": "A number of flip-flops connected in cascade",
+          "d": "A number of NOR gates connected in cascade form"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "What is the maximum possible range of bit-count specifically in n-bit binary counter consisting of ‘n’ number of flip-flops?",
+        "answers": {
+          "a": "0 to 2<sup>n</sup>",
+          "b": "0 to 2<sup>n+1</sup>",
+          "c": "0 to 2<sup>n-1</sup>",
+          "d": "0 to 2<sup>(n+(1/2))</sup>"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "How many types of the counter are there?",
+        "answers": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "5"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Ripple counters are also called ____________",
+        "answers": {
+          "a": "SSI counters",
+          "b": "Asynchronous counters",
+          "c": "Synchronous counters",
+          "d": "VLSI counters"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
